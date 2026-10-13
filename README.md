@@ -40,4 +40,6 @@ Here is a list of games/tests for web devs (but they're good for anyone), sugges
 
 - [https://kolor.moro.es/](https://kolor.moro.es/)
 
+- [Color Genius](https://colorgenius.art/)
+
 Have fun!
